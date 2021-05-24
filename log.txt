@@ -1,0 +1,11 @@
+Logger inizializzato.
+
+
+Generazione del file CSV
+
+Errore nell'eliminazione del file .csv
+Errore nella scrittura del file .csv
+
+
+File CSV generato
+
